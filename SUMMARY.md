@@ -1,22 +1,24 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to LRP tutorial](README.md)
 
 ## Overview
 
-* [💡 About LRP pipeline](overview/about-lrp-pipeline.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Long-Read-Proteogenomics](overview/long-read-proteogenomics.md)
+* [✨ Modules](overview/modules.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
+* [📪 Usage](product-guides/usage.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting set up with Nextflow](fundamentals/getting-set-up-with-nextflow/README.md)
+  * [Nextflow on Rivanna](fundamentals/getting-set-up-with-nextflow/nextflow-on-rivanna.md)
+  * [📝 Nextflow on your local](fundamentals/getting-set-up-with-nextflow/nextflow-on-your-local.md)
+* [🛠 Copy of Getting set up with Nextflow](fundamentals/copy-of-getting-set-up-with-nextflow/README.md)
+  * [📝 Nextflow on your local](fundamentals/copy-of-getting-set-up-with-nextflow/nextflow-on-your-local.md)
 
 ## Use Cases
 
