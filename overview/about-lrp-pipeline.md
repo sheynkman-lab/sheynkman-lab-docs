@@ -1,11 +1,13 @@
 # 💡 Long-Read-Proteogenomics
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+This is the repository for the **Long-Read Proteogenomics workflow**. Written in [`Nextflow`](https://www.nextflow.io/), it is a modular workflow beneficial to both the `Transcriptomics` and `Proteomics` fields. The data from both `Long-Read IsoSeq sequencing` with `PacBio` and `Mass spectrometry-based proteomics` used in the classification and analysis of protein isoforms expressed in `Jurkat` cells and described in the publication `Enhanced protein isoform characterization through long-read proteogenomics.`
 
-## Video overview
+The output data resulting from the execution of this workflow for the [Manuscript: Enhanced Protein Isoform Characterization through Long Read Proteogenomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02624-y). May be found here \[insert Zenodo Reference here]. The Analysis to produce the figures for the manuscript may be found in the companion repository [**Long-Read Proteogenomics Analysis**](https://github.com/sheynkman-lab/Long-Read-Proteogenomics-Analysis)
 
-Got 2 minutes? Check out a video overview of our product:
+A goal in the biomedical field is to delineate the protein isoforms that are expressed and have pathophysiological relevance. Towards this end, new approaches are needed to detect protein isoforms in clinical samples. Mass spectrometry (MS) is the main methodology for protein detection; however, poor coverage and incompleteness of protein databases limit its utility for isoform-resolved analysis. Fortunately, long-read RNA-seq approaches from PacBio and Oxford Nanopore platforms offer opportunities to leverage full-length transcript data for proteomics.
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+We introduce enhanced protein isoform detection through integrative “long read proteogenomics”. The core idea is to leverage long-read RNA-seq to generate a sample-specific database of full-length protein isoforms. We show that incorporation of long read data directly in the MS protein inference algorithms enables detection of hundreds of protein isoforms intractable to traditional MS. We also discover novel peptides that confirm translation of transcripts with retained introns and novel exons. Our pipeline is available as an open-source Nextflow pipeline, and every component of the work is publicly available and immediately extendable.
+
+Proteogenomics is providing new insights into cancer and other diseases. The proteogenomics field will continue to grow, and, paired with increases in long-read sequencing adoption, we envision use of customized proteomics workflows tailored to individual patients.
+
+<figure><img src="../.gitbook/assets/lrp.png" alt=""><figcaption></figcaption></figure>
