@@ -20,24 +20,24 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/long-read-proteogenomics.md" %}
-[long-read-proteogenomics.md](overview/long-read-proteogenomics.md)
+{% content-ref url="overview/about-lrp-pipeline.md" %}
+[about-lrp-pipeline.md](overview/about-lrp-pipeline.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/modules.md" %}
-[modules.md](overview/modules.md)
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up-with-nextflow/" %}
-[getting-set-up-with-nextflow](fundamentals/getting-set-up-with-nextflow/)
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up-with-nextflow/nextflow-on-your-local.md" %}
-[nextflow-on-your-local.md](fundamentals/getting-set-up-with-nextflow/nextflow-on-your-local.md)
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

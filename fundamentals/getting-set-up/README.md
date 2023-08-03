@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# 🛠 Getting set up with Nextflow
 
 <details>
 
