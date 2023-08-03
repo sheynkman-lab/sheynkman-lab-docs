@@ -20,5 +20,4 @@
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🖥 For Collaborators](use-cases/for-collaborators.md)
