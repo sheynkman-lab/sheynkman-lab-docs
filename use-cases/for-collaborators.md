@@ -1,23 +1,11 @@
-# 🖥 For Developers
+# 🖥 For Collaborators
 
-{% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
-{% endhint %}
+This directory contains assets and images used throughout the documentation found in the [`Wiki`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki), [`Visualization Vignette`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki/Vignette---How-to-Visualize-Results-from-Jurkat-Analysis), [`Quick Start`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics#quick-start) and [`Quick Start Processing Steps Vignette`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki/Vignette-Long-Read-Proteogenomics-Workflow-with-Test-Data).
 
-## GitHub Integrations
+Generic Workflow Overview:
 
-Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+[Usage](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/blob/main/docs/usage.md)
 
-{% tabs %}
-{% tab title="Installing" %}
-Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna.
+[Output](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/blob/main/docs/output.md)
 
-```
-string | ComponentClass<any, any> | FunctionComponent<any>
-```
-{% endtab %}
-
-{% tab title="Second tab" %}
-Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.
-{% endtab %}
-{% endtabs %}
+The user is refered to the _Enhanced protein isoform characterization through long-read proteogenomics_ manuscript for additional details as well as this repositories [`sheynkman-lab/Long-Read-Proteogenomics Wiki`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki), [`Visualization Vignette`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki/Vignette---How-to-Visualize-Results-from-Jurkat-Analysis), [`Quick Start`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics#quick-start) and [`Quick Start Processing Steps Vignette`](https://github.com/sheynkman-lab/Long-Read-Proteogenomics/wiki/Vignette-Long-Read-Proteogenomics-Workflow-with-Test-Data).
