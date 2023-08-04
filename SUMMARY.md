@@ -7,12 +7,13 @@
 * [💡 Long-Read-Proteogenomics](overview/about-lrp-pipeline.md)
 * [✨ Modules](overview/our-features.md)
 
-## Product Guides
+## Tutorial Guides
 
-* [Vignette Long Read Proteogenomics Workflow with Test Data](product-guides/vignette-long-read-proteogenomics-workflow-with-test-data.md)
-* [🏆 Custom LRP run](product-guides/custom-lrp-run.md)
-* [📪 Usage](product-guides/making-a-post.md)
-* [📍 Running individual module](product-guides/running-individual-module.md)
+* [Vignette Long Read Proteogenomics Workflow with Test Data](tutorial-guides/vignette-long-read-proteogenomics-workflow-with-test-data.md)
+* [🏆 Custom LRP run](tutorial-guides/custom-lrp-run.md)
+* [📪 Usage](tutorial-guides/usage.md)
+* [📍 Running individual module](tutorial-guides/running-individual-module.md)
+* [Slurm on Rivanna](tutorial-guides/slurm-on-rivanna.md)
 
 ## Fundamentals
 
