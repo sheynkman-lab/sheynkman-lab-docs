@@ -11,6 +11,7 @@
 
 * [📪 Usage](product-guides/making-a-post.md)
 * [Vignette Long Read Proteogenomics Workflow with Test Data](product-guides/vignette-long-read-proteogenomics-workflow-with-test-data.md)
+* [Custom LRP run](product-guides/custom-lrp-run.md)
 
 ## Fundamentals
 

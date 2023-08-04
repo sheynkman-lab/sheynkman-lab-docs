@@ -55,8 +55,7 @@ export NXF_VER=20.01.0
 Now with the environment ready, we can clone.
 
 ```bash
-git clone https://
-.com/sheynkman-lab/Long-Read-Proteogenomics
+git clone https://github.com/sheynkman-lab/Long-Read-Proteogenomics
 
 cd Long-Read-Proteogenomics
 ```
