@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to LRP tutorial](README.md)
+* [👋 Welcome to the LRP bootcamp](README.md)
 
 ## Overview
 
@@ -9,9 +9,10 @@
 
 ## Product Guides
 
-* [📪 Usage](product-guides/making-a-post.md)
 * [Vignette Long Read Proteogenomics Workflow with Test Data](product-guides/vignette-long-read-proteogenomics-workflow-with-test-data.md)
-* [Custom LRP run](product-guides/custom-lrp-run.md)
+* [🏆 Custom LRP run](product-guides/custom-lrp-run.md)
+* [📪 Usage](product-guides/making-a-post.md)
+* [📍 Running individual module](product-guides/running-individual-module.md)
 
 ## Fundamentals
 

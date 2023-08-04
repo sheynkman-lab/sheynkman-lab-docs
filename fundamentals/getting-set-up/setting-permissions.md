@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 📝 Nextflow on your local
 
 ## Requirements
