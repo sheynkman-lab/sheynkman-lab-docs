@@ -5,7 +5,7 @@
 ## Overview
 
 * [💡 Long-Read-Proteogenomics](overview/about-lrp-pipeline.md)
-* [✨ Modules](overview/our-features.md)
+* [✨ LRP Modules](overview/our-features.md)
 
 ## Tutorial Guides
 
