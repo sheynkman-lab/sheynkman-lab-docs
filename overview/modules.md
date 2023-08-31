@@ -4,7 +4,7 @@ description: >-
   pipeline.
 ---
 
-# ✨ LRP Modules
+# ✨ Modules
 
 ## Gencode\_db
 

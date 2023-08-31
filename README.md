@@ -12,8 +12,8 @@ The materials in this document will guide you for running the Long-Read Proteoge
 [about-lrp-pipeline.md](overview/about-lrp-pipeline.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
